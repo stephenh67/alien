@@ -1,7 +1,5 @@
 import sys
-
 import pygame
-
 from bullet import Bullet
 
 
